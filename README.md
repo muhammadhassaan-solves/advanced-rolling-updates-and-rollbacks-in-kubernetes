@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project demonstrates advanced rolling update techniques in Kubernetes. It covers rolling update, health checks, version history, rollback mechanisms, and real-world troubleshooting.
+This project demonstrates advanced rolling update techniques in Kubernetes. It covers rolling update, version history, rollback mechanisms, and real-world troubleshooting.
 <br />
 
 
